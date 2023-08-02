@@ -1,0 +1,48 @@
+body{
+    
+    background-color: rgb(193, 231, 245);
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#A1{
+ width:300px ;height: 450px;
+background-color: white;
+border-radius: 20px;
+display: inline-block;
+justify-content: center;
+box-shadow: 1px 1px 1pc  rgb(157, 225, 250);
+
+}
+.a1{
+    
+    width: 275px;
+    height: 270px;
+    margin: 11px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42, 156, 244);
+}
+i{
+    font-size: 200px;
+    color: white;
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgba(31, 27, 27, 0.879);
+}
+h5{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    color: rgba(128, 128, 128, 0.834);
+}
+img{
+    width: 200px;height: 200px;
+    background-image: url("./QR2.png");
+    background-size: cover;
+    
+}
